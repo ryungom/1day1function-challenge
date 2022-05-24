@@ -16,7 +16,30 @@
 
 ## 같이 하는 사람들
 
-- 멋쟁이사자처럼 Front-End School 2기 동료들 <br> (`[문희](https://github.com/moonhee0507)`,`[허지현](https://github.com/Koreanhamster)`, `[임홍렬](https://github.com/Hongryeoll)`, `[이수빈](https://github.com/waterbinnn)`, `황혜명`, `[조민경](https://github.com/minkyeongJ)`, `[조수영](https://github.com/sooyyoung)`, `[이예은](https://github.com/leeyeun)`, `[구나영](https://github.com/Nayoung-Gu)`, `김도희`, `[전유진](https://github.com/ujin16)`, `조윤희`, `[남위정](https://github.com/Nam-Wijeong)`, `[김태희](https://github.com/greenT-Hee)`, `[우혜빈](https://github.com/Hyebin-woo)`, `[이소민](https://github.com/nimoseel)`, `[오한솔](https://github.com/hhnssl)`, `[임현지](https://github.com/usablepaper)`, `[장소연](https://github.com/plutoin)`, `[정예지](https://github.com/sabit1997)`, `[김경림](https://github.com/skylar121)`, `[최수빈](https://github.com/subincdev)`, `[류재준](https://github.com/ryungom)`)
+- 멋쟁이사자처럼 Front-End School 2기 동료들 <br> 
+[문희](https://github.com/moonhee0507), 
+[허지현](https://github.com/Koreanhamster), 
+[임홍렬](https://github.com/Hongryeoll), 
+[이수빈](https://github.com/waterbinnn), 
+황혜명, 
+[조민경](https://github.com/minkyeongJ), 
+[조수영](https://github.com/sooyyoung), 
+[이예은](https://github.com/leeyeun), 
+[구나영](https://github.com/Nayoung-Gu), 
+김도희, 
+[전유진](https://github.com/ujin16)`, 
+조윤희, 
+[남위정](https://github.com/Nam-Wijeong), 
+[김태희](https://github.com/greenT-Hee), 
+[우혜빈](https://github.com/Hyebin-woo), 
+[이소민](https://github.com/nimoseel), 
+[오한솔](https://github.com/hhnssl), 
+[임현지](https://github.com/usablepaper), 
+[장소연](https://github.com/plutoin), 
+[정예지](https://github.com/sabit1997), 
+[김경림](https://github.com/skylar121), 
+[최수빈](https://github.com/subincdev), 
+[류재준](https://github.com/ryungom)
 - 암기한 내용은 github와 youtube, tistory에 관리하고 있습니다.
 
 <br>
@@ -24,5 +47,5 @@
 ## 정보
 
 <a href="https://www.youtube.com/channel/UCcABz4NaQQcLY2KxDNqr9-g/videos" target="_blank"><img src="https://img.shields.io/badge/유튜브-FF0000?style=round-square&logo=Youtube&logoColor=white"/></a>
-<a href="https://velog.io/@sjmh0507/series/1%EC%9D%BC-1%ED%95%A8%EC%88%98-%EB%83%85%EB%8B%A4-%EC%99%B8%EC%9A%B0%EA%B8%B0" target="_blank"><img src="https://img.shields.io/badge/티스토리-db570b?style=round-square&logo=
+<a href="https://ryungom.tistory.com" target="_blank"><img src="https://img.shields.io/badge/티스토리-db570b?style=round-square&logo=
   Tistory&logoColor=white"/></a>
