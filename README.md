@@ -28,7 +28,7 @@
 [구나영](https://github.com/Nayoung-Gu), 
 김도희, 
 [전유진](https://github.com/ujin16), 
-조윤희, 
+[조윤희](https://github.com/unidagit), 
 [남위정](https://github.com/Nam-Wijeong), 
 [김태희](https://github.com/greenT-Hee), 
 [우혜빈](https://github.com/Hyebin-woo), 
@@ -46,5 +46,5 @@
 
 ## 정보
 
-<a href="https://www.youtube.com/channel/UCcABz4NaQQcLY2KxDNqr9-g/videos" target="_blank"><img src="https://img.shields.io/badge/유튜브-FF0000?style=round-square&logo=Youtube&logoColor=white"/></a>
+<a href="https://www.youtube.com/channel/UCAXnDelcKDCwrsgVSIqZrLA/videos" target="_blank"><img src="https://img.shields.io/badge/유튜브-FF0000?style=round-square&logo=Youtube&logoColor=white"/></a>
 <a href="https://ryungom.tistory.com" target="_blank"><img src="https://img.shields.io/badge/티스토리-orange"></a>
